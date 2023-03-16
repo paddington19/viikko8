@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private EditText numInput;  // textInput nimeen EditText
+    private EditText numInput;
     private EditText numInput2;
     private TextView numOutput;
 
